@@ -1,0 +1,25 @@
+{
+  "name": "test-halo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haidardzaky/hello-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haidardzaky/hello-test/issues"
+  },
+  "homepage": "https://github.com/haidardzaky/hello-test#readme",
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
+}
